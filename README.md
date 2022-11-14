@@ -1,5 +1,5 @@
 - Hi, I’m @arjunaacharry 👋
-- Studying BCA at KCMT
+- Studying BCA
 - HTML, CSS
 - Technology, Information and Internet
 - Designer, Computer Programming, Web Designing
