@@ -1,6 +1,7 @@
 - Hi, I’m @arjunaacharry 👋
 - Studying BCA
 - HTML, CSS
+- Photoshop
 - Technology, Information and Internet
 - Designer, Computer Programming, Web Designing
 
