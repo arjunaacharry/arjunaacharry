@@ -1,9 +1,9 @@
 <h1>Hi, I'm Arjun A Acharry</h1>
-<hr></hr>
 
-<h4> I am a student trying to earn knowledge from all the sources. Currently I'm doing graduation in Computer Application from Kristu Jyoti College of Management and Technology.
 
-  I like to Express My Creativity Through Designing</h4>
+<h3><p>I am a student trying to earn knowledge from all the sources. Currently I'm doing graduation in Computer Application from Kristu Jyoti College of Management and Technology.<p>
+
+  <P>I like to Express My Creativity Through Designing</h3></P>
 
 
 <h3>Graphic Designing & UI Designing<h3>
