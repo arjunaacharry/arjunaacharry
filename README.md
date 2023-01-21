@@ -17,7 +17,9 @@
 <h3>Exploring Fields<h3>
   
   - **Technology, Information and Internet**
+  
   - **Graphic Designing, Computer Programming, Web Designing**
+  
   - **Cyber Security**
   
   ### Connect me through [LinkedIn](https://www.linkedin.com/in/arjun-a-acharry-044a36252/)
