@@ -1,4 +1,7 @@
-<h1>Hi, I'm Arjun A Acharry</h1>
+<center>
+  <h1>Hi, I'm Arjun A Acharry</h1>
+  <h4>Graphic Design | UI Design | Cyber Enthusiast</h4><center>
+
 
 
 <h3><p>I am a student trying to earn knowledge from all the sources. Currently I'm doing graduation in Computer Application from Kristu Jyoti College of Management and Technology.<p>
