@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 Hi, I'm Arjun A Acharry<br>A Graphic Designer with a specialization in UI Design and a strong interest in React development. Currently pursuing a degree in Computer Application from Kristu Jyoti College of Management and Technology, I am dedicated to continuous learning and skill enhancement through both academic studies and online courses. My passion lies in creating visually captivating designs that offer a seamless user experience. I am particularly enthusiastic about UI design and React development, staying abreast of the latest trends and technologies in these fields. As a proactive learner, my goal is to secure a position where I can leverage my skills in graphic and UI design, along with my interest in React, to contribute meaningfully to a dynamic team. I look forward to applying my creativity and technical expertise to make a valuable impact in the ever-evolving landscape of graphic and UI design, with a special focus on React development.
 
 
